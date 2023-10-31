@@ -1,2 +1,6 @@
 pandas
 ipykernel
+numpy 
+matplotlib 
+seaborn 
+scipy
